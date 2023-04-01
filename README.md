@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaeldevvv
-- 👀 I’m interested in mangas, animes, basketball, ping pong, movies, series, games and calisthenics.
+- 👀 I’m interested in mangas, animes, basketball, movies, series, games, calisthenics and, of course, technologies.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: https://www.instagram.com/rafaeldevvv/
