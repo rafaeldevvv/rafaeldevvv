@@ -2,7 +2,7 @@
 - 👀 I’m interested in mangas, animes, basketball, movies, series, games, calisthenics and, of course, technologies.
 - 🌱 I’m currently learning OOP.
 - 💞️ I’m looking to collaborate on any project
-- 📖 Knowledge: HTML, CSS, JavaScript, React, Git and Github, OOP, SASS/SCSS
+- 📖 Knowledge: HTML, CSS, JavaScript, React, Git and Github, OOP, SASS/SCSS, APIs
 - 📫 How to reach me: https://www.instagram.com/rafaeldevvv/
 
 <!---
