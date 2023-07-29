@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaeldevvv
-- 👀 I’m interested in mangas, animes, basketball, movies, series, games, calisthenics and, of course, technologies.
+- 👀 I’m interested in marketing, business, technologies, design, programming and calisthenics.
 - 🌱 I’m currently learning ACCESSIBILITY.
 - 💞️ I’m looking to collaborate on any project
 - 📖 Knowledge: HTML, CSS, JavaScript, React, Git and Github, OOP, SASS/SCSS, APIs
