@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaeldevvv
 - 👀 I’m interested in marketing, business, technologies, design, programming and calisthenics.
-- 🌱 I’m currently learning ACCESSIBILITY and TypeScript.
+- 🌱 I’m currently learning NextJS and TypeScript.
 - 💞️ I’m looking to collaborate on any project
 - 📖 Knowledge: HTML, CSS, JavaScript, React, Git and Github, OOP, SASS/SCSS, APIs, Web Accessibility.
 - 📫 How to reach me: https://www.instagram.com/rafaeldevvv/
