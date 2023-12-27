@@ -39,7 +39,7 @@ I'm a self-taught front-end developer based in Espírito Santo, Brazil. I'm on a
 
 - [Portfolio](https://rafaeldevvv.github.io/rafaeldevvv)
 - [Instagram](https://www.instagram.com/rafaeldevvv)
-- [\X](https://www.twitter.com/rafaeldevvv)
+- [X](https://www.twitter.com/rafaeldevvv)
 - [Linkedin](https://www.linkedin.com/in/rafael-maia-b69662263)
   
 
