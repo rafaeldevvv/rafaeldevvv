@@ -4,24 +4,7 @@
 
 ## About Me
 
-I'm a self-taught front-end developer based in Espírito Santo, Brazil. I'm on a journey to becoming a skilled freelance front-end developer. Web page creation is my true passion. My approach is all about simplicity and meaningful design.
-
-I can develop responsive, performant and accessible pages from scratch, transforming them into modern user-friendly web experiences. I am always striving to learn about the latest technologies and frameworks to keep my knowledge up-to-date.
-
-## Interests
-
-- Technology
-- Programming
-- Design
-- Marketing
-- Business
-- Calisthenics
-
-## Currently learning
-
-- Next.js
-- TypeScript
-- Tailwind CSS
+I'm a self-taught front-end developer based in Espírito Santo, Brazil. I'm on a journey to becoming a skilled freelance front-end developer.
 
 ## Knowledge
 
@@ -36,6 +19,21 @@ I can develop responsive, performant and accessible pages from scratch, transfor
 - Git/GitHub
 - OOP
 - Web Accessibility
+- 
+## Currently learning
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## Interests
+
+- Technology
+- Programming
+- Design
+- Marketing
+- Business
+- Calisthenics
 
 ## How to reach me
 
