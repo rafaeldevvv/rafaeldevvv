@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a self-taught front-end developer based in Espírito Santo, Brazil. I'm on a journey to becoming a skilled freelance front-end developer.
+I'm a self-taught front-end developer based in Espírito Santo, Brazil. I'm on a journey to becoming a skilled freelance full-stack developer.
 
 ## Knowledge
 
@@ -19,11 +19,11 @@ I'm a self-taught front-end developer based in Espírito Santo, Brazil. I'm on a
 - Git/GitHub
 - OOP
 - Web Accessibility
-- 
+  
 ## Currently learning
 
+- Back-end
 - Next.js
-- TypeScript
 - Tailwind CSS
 
 ## Interests
