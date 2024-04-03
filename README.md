@@ -23,8 +23,6 @@ I'm a self-taught front-end developer based in Espírito Santo, Brazil. I'm on a
 ## Currently learning
 
 - Back-end
-- Next.js
-- Tailwind CSS
 
 ## Interests
 
