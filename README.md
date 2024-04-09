@@ -34,6 +34,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rafael.maia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rafael.maia" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldevvv&show_icons=true&locale=en&layout=compact" alt="rafaeldevvv" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldevvv&show_icons=true&locale=en&layout=compact" alt="rafaeldevvv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldevvv&show_icons=true&locale=en" alt="rafaeldevvv" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rafaeldevvv&show_icons=true&locale=en" alt="rafaeldevvv" /></p>
