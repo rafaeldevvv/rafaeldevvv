@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeldevvv" alt="rafaeldevvv" /></a> </p>
 
-- 🔭 I’m currently working on [Pokon](https://pokon.vercel.app)
+- 🔭 I’m currently working on [Dictionary Web App](https://github.com/rafaeldevvv/dictionary-web-app)
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://rafaeldevvv.github.io/portfolio](https://rafaeldevvv.github.io/portfolio)
 
