@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dictionary Web App](https://github.com/rafaeldevvv/dictionary-web-app)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** and **Python**
 
 - 👨‍💻 All of my projects are available at [https://rafaeldevvv.github.io/portfolio](https://rafaeldevvv.github.io/portfolio)
 
