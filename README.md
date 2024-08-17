@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rafaeldeveloperr@gmail.com**
 
-- ⚡ Fun fact **I like to do calisthenics**
+- ⚡ Fun fact **I like to work out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
