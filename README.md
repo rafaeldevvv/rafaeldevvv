@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeldevvv" alt="rafaeldevvv" /></a> </p>
 
-- 🔭 I’m currently working on [Dictionary Web App](https://github.com/rafaeldevvv/dictionary-web-app)
+- 🔭 I’m currently working on [Mortgage Repayment Project](https://github.com/rafaeldevvv/frontend-mentor-mortgage-repayment). I'm trying out shadcn/ui
 
 - 🌱 I’m currently learning **DSA** and **Python**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rafaeldeveloperr@gmail.com**
 
-- ⚡ Fun fact **I like to work out**
+- ⚡ Fun fact **I like to work out, especially calisthenics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
