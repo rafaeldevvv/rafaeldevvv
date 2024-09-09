@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeldevvv" alt="rafaeldevvv" /></a> </p>
 
-- 🔭 I’m currently working on [Mortgage Repayment Project](https://github.com/rafaeldevvv/frontend-mentor-mortgage-repayment). I'm trying out shadcn/ui
+- 🔭 I’m currently working on [Mortgage Repayment Project](https://github.com/rafaeldevvv/frontend-mentor-mortgage-repayment). I'm trying out [shadcn/ui](https://ui.shadcn.com)
 
 - 🌱 I’m currently learning **DSA** and **Python**
 
